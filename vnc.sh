@@ -1,0 +1,2 @@
+stopvnc
+startvnc
